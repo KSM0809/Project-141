@@ -1,0 +1,30 @@
+.heading{
+    color: white;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+#header{
+  display: inline;
+}
+
+  #footer{
+    background-color: #f5f5f5;
+    line-height: 2;
+    position: fixed;
+    bottom:0;
+    width: 100%;
+}
+
+#instructions{
+  float: right;
+  border: 1px solid white;
+  margin-right: 20px;
+}
+
+canvas{
+  border: 2px 2px fuchsia;
+  border-radius: 10px;
+  margin-top: 130px;
+  box-shadow: 5px 5px 5px white;
+}
